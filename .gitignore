@@ -1,0 +1,14 @@
+**/target/*
+.classpath
+project
+.settings/*
+**/*.log
+**/logs/*
+bin/*
+.idea
+*\.iml
+*\.ipr
+*\.iws
+*\.zip
+out
+

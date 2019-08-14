@@ -52,6 +52,10 @@ object RecordTest extends App {
 
   import PersonSyntax._
 
+//  implicit def some(a:Person):String = {
+//    a.toString
+//  }
+
   private final val data: Map[String, String] =
     Map(
       "id" -> "1234",
